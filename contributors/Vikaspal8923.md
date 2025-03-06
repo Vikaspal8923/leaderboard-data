@@ -3,7 +3,7 @@ name: Vikas_pal8923
 title: Contributor
 github: Vikaspal8923
 twitter: ""
-linkedin: ""
+linkedin: " "
 slack: ""
 joining_date: ""
 role : contributor
